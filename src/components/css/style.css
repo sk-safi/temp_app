@@ -10,7 +10,9 @@
 
 
 body{
-    background: #f3f2ef;
+    background-image: url("Clouds-2-1-of-1-800x600.jpg");
+    background-repeat: no-repeat;
+    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
